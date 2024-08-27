@@ -1,5 +1,3 @@
-// Example 1: Unused variable
-var unusedVariable = "I am not used";
 
 // Example 2: Using 'var' instead of 'let' or 'const'
 function exampleVarUsage() {
