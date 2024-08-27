@@ -1,4 +1,8 @@
-
+function exampleVarUsage() {
+    for (var i = 0; i < 10; i++) {
+        console.log(i);
+    }
+}
 // Example 2: Using 'var' instead of 'let' or 'const'
 function exampleVarUsage() {
     for (var i = 0; i < 10; i++) {
